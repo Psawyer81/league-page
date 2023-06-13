@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "916363077501837000"; // your league ID
+export const leagueID = "576199423274934000"; // your league ID
 export const leagueName = "Ohio Fantasy"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
